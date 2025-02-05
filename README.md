@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Associate professor at Institute of Formal and Applied Linguistics ([ÚFAL](https://github.com/ufal)), Faculty of Mathematics and Physics (Matfyz), Charles University (Univerzita Karlova).
+- Associate professor at the Institute of Formal and Applied Linguistics ([ÚFAL](https://github.com/ufal)), Faculty of Mathematics and Physics (Matfyz), Charles University (Univerzita Karlova).
 - Co-leader of [Universal Dependencies](https://github.com/universaldependencies), a community research project collecting morphosyntactically annotated data from natural languages.
 - [Homepage](https://ufal.mff.cuni.cz/daniel-zeman).
 - Pronouns: he/him.
